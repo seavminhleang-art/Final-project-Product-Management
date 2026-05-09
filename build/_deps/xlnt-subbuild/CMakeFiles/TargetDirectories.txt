@@ -1,0 +1,3 @@
+/home/puthea-reach/final-project-c++/build/_deps/xlnt-subbuild/CMakeFiles/xlnt-populate.dir
+/home/puthea-reach/final-project-c++/build/_deps/xlnt-subbuild/CMakeFiles/edit_cache.dir
+/home/puthea-reach/final-project-c++/build/_deps/xlnt-subbuild/CMakeFiles/rebuild_cache.dir

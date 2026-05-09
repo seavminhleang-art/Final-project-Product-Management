@@ -1,0 +1,3 @@
+/home/puthea-reach/final-project-c++/build/_deps/tabulate-subbuild/CMakeFiles/tabulate-populate.dir
+/home/puthea-reach/final-project-c++/build/_deps/tabulate-subbuild/CMakeFiles/edit_cache.dir
+/home/puthea-reach/final-project-c++/build/_deps/tabulate-subbuild/CMakeFiles/rebuild_cache.dir
