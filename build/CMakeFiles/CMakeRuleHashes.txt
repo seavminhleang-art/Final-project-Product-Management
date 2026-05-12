@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+0b1b832d37f615c870e635936d94b304 _deps/xlnt-build/source/CMakeFiles/uninstall
